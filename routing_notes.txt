@@ -1,0 +1,6 @@
+# DMLE Internal Routing Subnets
+- 10.0.0.1 (Perimeter Gateway)
+- 10.0.0.5 (Auror Headquarters Router)
+- 10.0.0.50 (Department of Mysteries Isolation VLAN)
+
+Remember: Port 80 is sometimes left unencrypted on internal legacy systems.
