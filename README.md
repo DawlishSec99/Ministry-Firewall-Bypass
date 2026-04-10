@@ -1,4 +1,4 @@
-# Ministry Firewall Bypass Proof of Concept 🛡️🔥
+# Ministry Firewall Bypass Proof of Concept
 
 Old network notes from my time at the DMLE. The Ministry's IT policies are ridiculous, and their internet filters block almost everything Muggle-related. 
 
